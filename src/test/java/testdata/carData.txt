@@ -1,0 +1,16 @@
+address, ,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Make,Tel Aviv Israel,,A3,2017,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Model,Tel Aviv Israel,Audi,,2017,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Year,Tel Aviv Israel,Audi,A3,,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Engine,Tel Aviv Israel,Audi,A3,2017,,Petrol,MT,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Fuel,Tel Aviv Israel,Audi,A3,2017,2.0,,MT,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Gear,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,,FWD,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Wheels,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,,3,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+doors,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,,4,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+seats,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,,C,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+class,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,,10,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+consumption,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,C,,11-222-33,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+registration,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,C,10,,30,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Price,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,,500,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+distance,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,30,,C:\\Qa29\\CarRental_POM\\DGT_110592_AudiNewSite_c11-1.jpg
+Photo,Tel Aviv Israel,Audi,A3,2017,2.0,Petrol,MT,FWD,3,4,C,10,11-222-33,30,500,*
